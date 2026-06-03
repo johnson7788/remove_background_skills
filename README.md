@@ -1,4 +1,4 @@
-# 背景移除技能
+# 视频和图片背景移除skills
 
 基于 [rembg](https://github.com/danielgatis/rembg) 的 Claude Code 技能，用于 AI 驱动的图片和视频背景移除。
 
