@@ -83,3 +83,5 @@ removebackground/
 ## 许可证
 
 MIT — 与 [rembg](https://github.com/johnson7788/remove_background_skills) 项目保持一致。
+
+## 使用有问题，联系我微信: johnsongzc
